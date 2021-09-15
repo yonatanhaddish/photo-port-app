@@ -15,7 +15,6 @@ The user should clone the repository from GitHub and install dependencies. To ru
 
 ## Usage 
 This application will allow users view an about me page, send information through a contact form, and view galleries based on their category. When a user clicks on an image, they will be able to view the image in a larger scale.<br>
-Please view deployed application on [Git Hub Pages](https://yonatanhaddish.github.io/photo-port-app/)<br>
 <img src='src/assets/photo-port-screen.png'>
 
 ## Contributing 
